@@ -1,5 +1,5 @@
-
-u will need to create a GitHub account at GitHub.com https://github.com.
+#How to setup Git
+1.     You you will need to create a GitHub account at GitHub.com https://github.com.
 2.	You will need to install a terminal on your desktop to run commands in order to push/pull files from your desktop to your repository that is online via GitHub. https://github.com/docker/toolbox/releases
 3.	Let’s create a repository. A repository is another name for folder.
 4.	Within your GitHub account online, click on Repositories and type in a name for your new repositories.
