@@ -9,23 +9,23 @@
 6.	Once setup, click on the repository and click on “Clone or download” to get the HTTPS link.
 7.	Go back to your DOCKER terminal and run the following commands.
 8.	Type in pwd to find your location that you are working in
-	a.	pwd
+	1.pwd
 9.	If you would like to change your directory, type in 
-	b.	cd /c/..[Folder Name]../ 
+	1.	cd /c/..[Folder Name]../ 
 10.	Take the HTTPS link and type in the following command and then the link.
-	c.	git clone
+	1.	git clone
 11.	Type in git status to see what branch you are in.
-	d.	git status
+	1.	git status
 12.	Once the top list has been completed we can now start to learn branching and other concepts.
 
 ## Branch
 1.	Branch is a copy of your repository that will isolate your changes without touching the original one such as from the Master. A branch is similar to a file directory. It will represent a working area where you can edit, stage, and commit once you ready to make live. It’s a way so the programmer can work on one thing while not interfering with another programmer when coding. See image below to see what branching looks like.
 2.	Pull request is when you want to submit all your revision to the main project branch.
 3.	So lets utilize GIt Basic Commands : 
-	a.	git branch  - list all branches
-	b.	git branch <Name> - creates a new branch called Name
-	c.	git branch -d <Name> - delete branch
-	d.	git -b checkout branch_name – is a shortcut to create a new branch and commit to another line
+	1.	git branch  - list all branches
+	2.	git branch <Name> - creates a new branch called Name
+	3.	git branch -d <Name> - delete branch
+	4.	git -b checkout branch_name – is a shortcut to create a new branch and commit to another line
 ![GitHub Logo](/images/Image3.png)
 
 ## Merge Conflict
