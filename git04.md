@@ -27,3 +27,13 @@ c. git commit -m "Changing file in feature"
 1.	**Forking** is exact replica of the repository where it allows developers to freely experiment such as changing coding without ever touching the original project. Basically forking resembles as a bridge connection between the copy and back to the original repository while utilizing the Pull Request.
 2.	**Pull Request** notifies other developers concerning on any changes that someone had made towards a branch within GitHub.
 3.	**Cloning** on the other hand only works with GitHub where its clone remotely and synced such as one on GitHub and the other repository on your personal desktop computer.
+
+# Adding  collaborator to a GitHub Repo
+1. Go to your respository that you are working in.
+2. Look and click on "Setting" that is within the tab control.
+	1. ![GitHub Logo](/images/Image20.png)
+3. Look and click on "Collaborators" on the left sidebar.
+4. Add all nesscary collaborators for the project by using their email address.
+	1. 	1. ![GitHub Logo](/images/Image21.png)
+5. Be sure that are users that were requested, must accpet your invitation.
+
